@@ -1,0 +1,12 @@
+artifacts
+cache
+coverage
+deployments
+node_modules
+
+# files
+.env
+.prettierrc
+package.json
+package-lock.json
+yarn.lock
